@@ -1,2 +1,4 @@
 # java-practice
-kh교육 
+* day01 - 
+* day02 - 
+
